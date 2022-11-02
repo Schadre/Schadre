@@ -1,5 +1,7 @@
 <div id="header" align="center">
-Hello World, My name is Schadrè Dent and I am a full-stack software engineer. I love programming, watching anime, listening to music and playing intense video games.
+Hello World<br>
+My name is Schadrè Dent and I am a full-stack software engineer.<br>
+I love programming, watching anime, listening to music and playing intense video games.<br>
 
 As a software engineer, I enjoy using my beautiful attention to detail and creativity to build the future line by line! 
 
