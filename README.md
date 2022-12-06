@@ -3,7 +3,9 @@ Hello World!<br>
 My name is Schadrè Dent and I am a full-stack software engineer.<br>
 I love programming, watching anime, and listening to music<br>
 
-As a software engineer, I enjoy using my beautiful attention to detail and creativity to build the future line by line! 
+As a software engineer, <br>
+ 
+I enjoy using my beautiful attention to detail and creativity to build the future line by line! 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Schadre}.${103374729})
 
