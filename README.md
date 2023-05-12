@@ -2,6 +2,8 @@
 Hello World!<br>
 My name is Schadrè Dent and I am a full-stack software engineer.<br>
 I love programming, watching anime, and listening to music!<br>
+ 
+ <br>
 
 ![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
 
