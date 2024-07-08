@@ -15,18 +15,11 @@
         🎧 <strong>Music Enthusiast</strong>: I find rhythm and harmony in coding just like in music, striving for seamless and efficient solutions.<br>
     </p>
 </div>
-<div align="center">
-    ![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
-</div>
+![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
 
-<div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
 
-<div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
 
-<div align="center">
-    [![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
+[![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
 </div>
