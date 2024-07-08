@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1>Hello, World! 🌍</h1>
     <p>
-        I'm <strong>Schadrè Dent</strong>, a passionate <strong>Full-Stack Software Engineer</strong> dedicated to crafting innovative and impactful solutions. With a love for programming that rivals my enthusiasm for anime and music, I thrive in the intersection of creativity and technology.
+        I am <strong>Schadrè Dent</strong>, a passionate <strong>Full-Stack Software Engineer</strong> dedicated to crafting innovative and impactful solutions. With a love for programming that rivals my enthusiasm for anime and music, I thrive in the intersection of creativity and technology.
     </p>
     <h2>About Me</h2>
     <p align="center">
