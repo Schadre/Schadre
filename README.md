@@ -15,6 +15,7 @@
         🎧 <strong>Music Enthusiast</strong>: I find rhythm and harmony in coding just like in music, striving for seamless and efficient solutions.<br>
     </p>
 </div>
+
 ![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
