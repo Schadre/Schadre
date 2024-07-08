@@ -1,4 +1,4 @@
-
+<h1 align='center'>Welcome to my GitHub page 😃</h1><br>
 <div align='center'>
 
 [![MasterHead](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)]()
@@ -11,14 +11,13 @@
 </br>
 
 <div align='center'>
-    Welcome to my GitHub page 😃<br>
     🔍 Check out my portfolio site <a href="/">here</a>.<br>
     💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/schadre/">LinkedIn</a> or via <a href="mailto:schadred@gmail.com?">email</a>.
 </div>
 
 </br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://pixelbag.net/wp-content/uploads/2021/12/AWS-Logo-svg-768x768.jpg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -41,8 +40,10 @@
 </br>
 
 <div align='center'>
+    <h1>Github Stats</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight" alt="Schadre's GitHub stats"/><br>
     <img src="https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight" alt="Schadre's GitHub Streak"/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight" alt="Schadre's Top Languages"/><br>
+    <h1>Codewars Stats</h1>
     <img src="https://www.codewars.com/users/Schadre/badges/large" alt="Schadre's Codewars Profile"/><br>
 </div>
