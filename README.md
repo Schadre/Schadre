@@ -11,8 +11,8 @@
 
 <div align='center'>
     Welcome to my GitHub page 😃<br>
-    🔍 Check out my portfolio site <a href="https://www.schadre.com/">here</a>.<br>
-    💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/schadre-profile/">LinkedIn</a> or via <a href="mailto:schadre.dent@gmail.com?">email</a>.
+    🔍 Check out my portfolio site <a href="/">here</a>.<br>
+    💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/schadre/">LinkedIn</a> or via <a href="mailto:schadred@gmail.com?">email</a>.
 </div>
 
 </br>
