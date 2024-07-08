@@ -14,9 +14,12 @@
         <li>📺 <strong>Anime Aficionado</strong>: A big fan of storytelling and character development, which inspires my approach to problem-solving.</li>
         <li>🎧 <strong>Music Enthusiast</strong>: I find rhythm and harmony in coding just like in music, striving for seamless and efficient solutions.</li>
     </ul>
-    <br>
-    ![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
-    [![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
 </div>
+
+![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
+
+[![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
