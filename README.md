@@ -5,7 +5,7 @@
 </div>
 
 <h1 align='center'>Hello, World! 🌍</h1>
-<h3 align='center'>Hey 👋🏼, I'm Schadrè Dent!</h3>
+<h3 align='center'>I am Schadrè Dent!</h3>
 <h3 align='center'>Full-Stack Software Engineer</h3>
 
 </br>
