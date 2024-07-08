@@ -1,3 +1,4 @@
+
 <div align='center'>
 
 [![MasterHead](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)]()
@@ -40,9 +41,8 @@
 </br>
 
 <div align='center'>
-    ![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
-    [![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight" alt="Schadre's GitHub stats"/>
+    <img src="https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight" alt="Schadre's GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight" alt="Schadre's Top Languages"/>
+    <img src="https://www.codewars.com/users/Schadre/badges/large" alt="Schadre's Codewars Profile"/>
 </div>
