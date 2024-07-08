@@ -1,6 +1,6 @@
 <div align='center'>
 
-[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)]()
+[![MasterHead](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)]()
 </div>
 
 <h1 align='center'>Hello, World! 🌍</h1>
@@ -41,16 +41,8 @@
 
 <div align='center'>
     ![Schadre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight)
-</div>
-
-<div align='center'>
     [![GitHub Streak](https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight)](https://git.io/streak-stats)
-</div>
-
-<div align='center'>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight)](https://github.com/Schadre/github-readme-stats)
-</div>
-
-<div align='center'>
     [![Profile badge](https://www.codewars.com/users/Schadre/badges/large)](https://www.codewars.com/users/Schadre)
+    </div>
 </div>
