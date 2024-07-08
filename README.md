@@ -41,8 +41,8 @@
 </br>
 
 <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight" alt="Schadre's GitHub stats"/>
-    <img src="https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight" alt="Schadre's GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight" alt="Schadre's Top Languages"/>
-    <img src="https://www.codewars.com/users/Schadre/badges/large" alt="Schadre's Codewars Profile"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight" alt="Schadre's GitHub stats"/><br>
+    <img src="https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight" alt="Schadre's GitHub Streak"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight" alt="Schadre's Top Languages"/><br>
+    <img src="https://www.codewars.com/users/Schadre/badges/large" alt="Schadre's Codewars Profile"/><br>
 </div>
