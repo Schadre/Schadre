@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome to my GitHub page </h1><br>
 <div align='center'>
 
-[![MasterHead](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)]()
+[![MasterHead]((https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif))]()
 </div>
 
 <h1 align='center'>Hello, World! 🌍</h1>
