@@ -12,7 +12,7 @@
 </br>
 
 <div align='center'>
-    🔍 Check out my portfolio site <a href="/">here</a>.<br>
+    🔍 Check out my portfolio site <a href="[ ](https://saint-portfolio.notion.site/9a2f42e766b24013861a003b3e611aec?v=e33df01eece2460e9e6205dbfcbb9782)">here</a>.<br>
     💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/schadre/">LinkedIn</a> or via <a href="mailto:schadred@gmail.com?">email</a>.
 </div>
 
