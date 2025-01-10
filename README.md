@@ -21,7 +21,7 @@
 <div align='center'>
     <h1>Github Stats</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Schadre&show_icons=true&theme=tokyonight" alt="Schadre's GitHub stats"/><br>
-    <img src="https://streak-stats.demolab.com/?user=Schadre&theme=tokyonight" alt="Schadre's GitHub Streak"/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schadre&theme=tokyonight" alt="Schadre's GitHub Streak"/></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight" alt="Schadre's Top Languages"/><br>
     <h1>Codewars Stats</h1>
     <img src="https://www.codewars.com/users/Schadre/badges/large" alt="Schadre's Codewars Profile"/><br>
