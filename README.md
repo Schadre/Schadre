@@ -1,4 +1,5 @@
-<h1 align='center'>Welcome to my GitHub page</h1><br>
+<div style="font-family: 'Times New Roman', Times, serif;">
+    <h1 align='center'>Welcome to my GitHub page</h1><br>
 <div align='center'>
     <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" alt="Welcome GIF">
 </div>
@@ -23,4 +24,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schadre&layout=compact&theme=tokyonight" alt="Schadre's Top Languages"/><br>
     <h1>Codewars Stats</h1>
     <img src="https://www.codewars.com/users/Schadre/badges/large" alt="Schadre's Codewars Profile"/><br>
+</div>
 </div>
